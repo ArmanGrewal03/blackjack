@@ -1,5 +1,7 @@
 # Blackjack Game
 
+<img width="853" alt="Screen Shot 2023-08-24 at 2 04 23 AM" src="https://github.com/ArmanGrewal03/blackjack/assets/143025874/56132d34-2fb2-428b-8ef1-e3b490b1ebea">
+
 A simple blackjack game with simular rules to casino coded using Java. 
 
 ## Table of Contents
